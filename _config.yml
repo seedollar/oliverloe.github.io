@@ -25,6 +25,7 @@ skills:
  - Spring MVC
  - Spring Boot
  - Spring Integration
+ - Spring AMQP
  - Java
  - JPA
  - SQL
@@ -105,7 +106,7 @@ education:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>Microservices Journey</strong>: One undeniable constant about software development is simply evolution. I am at present, attempting to read as many books on the subject of microservices and reactive principles. This is a complete paradigm shift in thought from traditional enterprise monolithic applcations, so it's taking me on a long journey of breaking old habits and embracing new thought patterns in this space. <br>
+   <strong>Microservices Journey</strong>: One undeniable constant about software development is simply evolution. I am at present, attempting to read as many books on the subject of microservices and reactive principles. This is a complete paradigm shift in thought from traditional enterprise monolithic applcations, so it's taking me on a long journey of breaking old habits and embracing new thought patterns in this space. <br></br>
    <strong>Python</strong>: A true software developer cannot state that they are fully versed in what they do unless they can show initiative in learning a second programming language. For me, Python has become that humbling objective. So far, I have been playing with the <strong>Django</strong> framework. 
 #additionalinfo: |
 #   <strong>JVM</strong>: I am a passionate Java developer who enjoys open source frameworks and technologies to build software in the enterprise space. I have recently worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others.  In my current role Groovy is the primary language used - and I am familiar with many of the languages features and quirks (including writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>). <br/><br/>
